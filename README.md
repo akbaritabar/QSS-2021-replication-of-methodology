@@ -2,6 +2,7 @@
 Scripts needed to replicate the methodology used in "A Quantitative View of the Structure of Institutional Scientific Collaborations Using the Example of Berlin" to appear in Quantitative Science Studies.
 
 **Link to paper**: https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00131/100515/
+
 **DOI**: https://doi.org/10.1162/qss_a_00131
 
 ## Preprint
