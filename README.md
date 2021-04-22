@@ -7,7 +7,7 @@ Scripts needed to replicate the methodology used in "A Quantitative View of the 
 
 ## Cite as
 
-`Aliakbar Akbaritabar. (2020, August 6). Replication materials for "The Impact of a National Research Assessment on the Publications of Sociologists in Italy" to appear in Science and Public Policy (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3974108`
+`Aliakbar Akbaritabar. (2021, April 1). Scripts needed to replicate methodology used in "A Quantitative View of the Structure of Institutional Scientific Collaborations Using the Example of Berlin" to appear in Quantitative Science Studies. (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.4657326`
 
 ## Preprint
 You can read a preprint of the manuscript here:
