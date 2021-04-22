@@ -5,6 +5,10 @@ Scripts needed to replicate the methodology used in "A Quantitative View of the 
 
 **DOI**: https://doi.org/10.1162/qss_a_00131
 
+## Cite as
+
+`Aliakbar Akbaritabar. (2020, August 6). Replication materials for "The Impact of a National Research Assessment on the Publications of Sociologists in Italy" to appear in Science and Public Policy (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3974108`
+
 ## Preprint
 You can read a preprint of the manuscript here:
 
